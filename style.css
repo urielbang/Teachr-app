@@ -1,0 +1,64 @@
+body {
+  background-image: url(https://images.pexels.com/photos/259915/pexels-photo-259915.jpeg?auto=compress&cs=tinysrgb&w=600);
+}
+header {
+  height: 10%;
+
+  border: solid white;
+  background-color: #54e95e;
+  color: white;
+}
+footer {
+  height: 60%;
+  width: 100%;
+  border: solid white;
+  background-color: #54e95e;
+  color: white;
+}
+div {
+  height: 100%;
+}
+h1 {
+  font-size: 25px;
+  color: #920898;
+  font-weight: bold;
+}
+h2 {
+  font-size: 17px;
+  font-style: italic;
+  color: #920898;
+}
+input {
+  font-weight: bold;
+  font-style: italic;
+}
+#mail {
+  width: 30%;
+}
+#name {
+  width: 30%;
+}
+.btn {
+  height: 20px;
+  width: 80px;
+  color: #c3158e;
+}
+table {
+  width: 90%;
+  border: solid;
+  color: #3ab15c;
+}
+td {
+  border: solid;
+}
+th {
+  border: solid;
+}
+ul li {
+  font-style: italic;
+  color: #00e72f;
+}
+ul li ul li {
+  font-weight: bold;
+  color: #0047ef;
+}
